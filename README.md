@@ -12,5 +12,8 @@
 - 📫 How to reach me: :email: :iphone: :mega: :mailbox:
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: We're all just children of different ages
+- [![paypal.me/markcheret](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/markcheret) - You can make one-time donations via PayPal for my volunteering projects
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=markcheret&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markcheret&langs_count=8&theme=vue-dark)]
