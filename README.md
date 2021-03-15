@@ -16,4 +16,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=markcheret&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markcheret&langs_count=8&theme=vue-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markcheret&langs_count=8&theme=vue-dark&hide_border=true)]
