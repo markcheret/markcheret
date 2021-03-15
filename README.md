@@ -2,8 +2,7 @@
 
 <!--
 **markcheret/markcheret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working at [CHERET Communications](https://cheret.de)
 - 🌱 I’m currently learning [HUGO](https://gohugo.io), Terraform, Vault, ArgoCD
@@ -14,6 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: We're all just children of different ages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=markcheret&count_private=true&show_icons=true" />
-
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=markcheret&count_private=true&show_icons=true" />
