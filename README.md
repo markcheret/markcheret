@@ -21,9 +21,9 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/markcheret/cheret-de/pull/35) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
-2. 💪 Opened PR [#35](https://github.com/markcheret/cheret-de/pull/35) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
-3. ❗️ Opened issue [#157](https://github.com/markcheret/footnotes/issues/157) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
-4. ❗️ Opened issue [#156](https://github.com/markcheret/footnotes/issues/156) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
-5. ❗️ Opened issue [#154](https://github.com/markcheret/footnotes/issues/154) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
+1. ❗️ Closed issue [#38](https://github.com/markcheret/cheret-tech/issues/38) in [markcheret/cheret-tech](https://github.com/markcheret/cheret-tech)
+2. 🎉 Merged PR [#39](https://github.com/markcheret/cheret-tech/pull/39) in [markcheret/cheret-tech](https://github.com/markcheret/cheret-tech)
+3. 💪 Opened PR [#39](https://github.com/markcheret/cheret-tech/pull/39) in [markcheret/cheret-tech](https://github.com/markcheret/cheret-tech)
+4. ❗️ Closed issue [#36](https://github.com/markcheret/cheret-de/issues/36) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
+5. 🎉 Merged PR [#37](https://github.com/markcheret/cheret-de/pull/37) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
 <!--END_SECTION:activity--> 
