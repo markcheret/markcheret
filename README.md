@@ -21,9 +21,9 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/markcheret/workflows/pull/2) in [markcheret/workflows](https://github.com/markcheret/workflows)
-2. ❗️ Closed issue [#1](https://github.com/markcheret/workflows/issues/1) in [markcheret/workflows](https://github.com/markcheret/workflows)
-3. 💪 Opened PR [#2](https://github.com/markcheret/workflows/pull/2) in [markcheret/workflows](https://github.com/markcheret/workflows)
-4. ❗️ Opened issue [#1](https://github.com/markcheret/workflows/issues/1) in [markcheret/workflows](https://github.com/markcheret/workflows)
-5. 🎉 Merged PR [#45](https://github.com/markcheret/cheret-de/pull/45) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
+1. 🗣 Commented on [#41](https://github.com/andstor/copycat-action/issues/41) in [andstor/copycat-action](https://github.com/andstor/copycat-action)
+2. 💪 Opened PR [#51](https://github.com/andstor/copycat-action/pull/51) in [andstor/copycat-action](https://github.com/andstor/copycat-action)
+3. 🎉 Merged PR [#2](https://github.com/markcheret/workflows/pull/2) in [markcheret/workflows](https://github.com/markcheret/workflows)
+4. ❗️ Closed issue [#1](https://github.com/markcheret/workflows/issues/1) in [markcheret/workflows](https://github.com/markcheret/workflows)
+5. 💪 Opened PR [#2](https://github.com/markcheret/workflows/pull/2) in [markcheret/workflows](https://github.com/markcheret/workflows)
 <!--END_SECTION:activity--> 
