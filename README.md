@@ -21,9 +21,9 @@
 -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/markcheret/cheret-de/issues/40) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
-2. 🎉 Merged PR [#152](https://github.com/markcheret/footnotes/pull/152) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
-3. 🎉 Merged PR [#155](https://github.com/markcheret/footnotes/pull/155) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
-4. 🗣 Commented on [#119](https://github.com/markcheret/footnotes/issues/119) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
-5. 🎉 Merged PR [#39](https://github.com/markcheret/cheret-de/pull/39) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
+1. ❗️ Opened issue [#41](https://github.com/markcheret/cheret-de/issues/41) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
+2. ❗️ Opened issue [#40](https://github.com/markcheret/cheret-de/issues/40) in [markcheret/cheret-de](https://github.com/markcheret/cheret-de)
+3. 🎉 Merged PR [#152](https://github.com/markcheret/footnotes/pull/152) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
+4. 🎉 Merged PR [#155](https://github.com/markcheret/footnotes/pull/155) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
+5. 🗣 Commented on [#119](https://github.com/markcheret/footnotes/issues/119) in [markcheret/footnotes](https://github.com/markcheret/footnotes)
 <!--END_SECTION:activity--> 
