@@ -4,9 +4,9 @@
 **markcheret/markcheret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at [CHERET Communications](https://cheret.de)
-- 🌱 I’m currently learning [HUGO](https://gohugo.io), Terraform, Vault, ArgoCD
-- 👯 I’m looking to collaborate on talks about Kubernetes, Istio and Config Management
+- 🔭 I’m currently working at [neon Switzerland AG](https://neon-free.ch)
+- 🌱 I’m currently learning [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI), ArgoCD, CNRM (Google Cloud Config Manager)
+- 👯 I’m looking to collaborate on talks about Security, Governance and Compliance
 - 🤔 I’m looking for help with my [WordPress Plugins](https://github.com/markcheret?tab=repositories)
 - 💬 Ask me about DevSecOps topics
 - 📫 How to reach me: :email: :iphone: :mega: :mailbox:
