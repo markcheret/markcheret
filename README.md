@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m currently working at [neon Switzerland AG](https://neon-free.ch)
-- 🌱 I’m currently learning [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI), ArgoCD, CNRM (Google Cloud Config Manager)
+- 🌱 I’m currently learning [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI), writing k8s operators in Go, k8s as IaC control plane
 - 👯 I’m looking to collaborate on talks about Security, Governance and Compliance
-- 🤔 I’m looking for help with my [WordPress Plugins](https://github.com/markcheret?tab=repositories)
+- 🤔 I’m looking for feedback for my [Adaptive Enforcement Lab](https://adaptive-enforcement-lab.com/)
 - 💬 Ask me about DevSecOps topics
 - 📫 How to reach me: :email: :iphone: :mega: :mailbox:
 - 😄 Pronouns: him/his
